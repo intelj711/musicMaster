@@ -45,6 +45,8 @@ class App extends Component {
     return (
       <div className="App">
         <div className="App-title">Music Master</div>
+        <div>Tip: Begin with seaching any band or singer by name. Click on album and enjoy a music snippet.
+          Switch to another song by simply click on another album. Let's try it!</div>
         <FormGroup>
           <InputGroup>
             <FormControl
