@@ -46,8 +46,9 @@ class App extends Component {
       <div className="App">
         <div className="App-title">Music Master</div>
         <hr/>
-        <div>Tip: Begin with seaching any band or singer by name. Click on album and enjoy a music snippet.
-          Switch to another song by simply click on another album. Let's try it!</div>
+        <div>Hi everyone! This is a react-redux app supported by Spotify API. You can use to search your favorite
+          band/singer, and play music! <br/>Begin with seaching any band or singer by name. Click on album and enjoy a music snippet.
+          Switch to another song by simply click on another album. <br/>Hope you like it!</div>
         <hr/>
         <FormGroup>
           <InputGroup>
